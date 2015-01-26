@@ -9,7 +9,7 @@ module.exports = {
     debug: false
   },
   app: {
-    name: 'MEAN - FullStack JS - Development'
+    name: 'MEAN - Web Video Platform - Development'
   },
   facebook: {
     clientID: 'DEFAULT_APP_ID',
